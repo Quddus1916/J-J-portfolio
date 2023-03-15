@@ -5,7 +5,8 @@ const Header = () =>{
     return(
         <div className="header">
             <div className="logo">
-                <img src={Logo} alt="logo" width="80px" height="100px"/>            
+                <img src={Logo} alt="logo" width="70px" height="90px"/> 
+                <h3>2 SQUARE DESIGN</h3>           
             </div>
             <div className="navigation">
             <nav>
@@ -16,10 +17,8 @@ const Header = () =>{
                     <li><a href="/">About</a></li>
                 </ul>
             </nav>
-
             </div>
             
-
         </div>
 
     );
