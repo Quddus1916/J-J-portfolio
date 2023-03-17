@@ -12,9 +12,9 @@ const Main = () =>{
                 <h4>Price:</h4>
                 <h5 className="dollar">$$$$</h5>
                 </div>
-                
+
                 <div className="contact">
-                    <button><a href="mailto:2squareofficial@gmail.com">Contact us</a></button>
+                    <button><a href="mailto:mhasan@2squarebd.com">Contact us</a></button>
                 </div>
                
                 
