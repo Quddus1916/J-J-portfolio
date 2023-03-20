@@ -17,7 +17,7 @@ We try to feed <br />your imagination by picking up and delivering a daily dose 
                 
 
                 <div className="contact">
-                    <button><a href="mailto:mhasan@2squarebd.com">Contact us</a></button>
+                    <button><a href="mailto:info@2squarebd.com">Contact us</a></button>
                 </div>
                
                 
@@ -32,6 +32,7 @@ We try to feed <br />your imagination by picking up and delivering a daily dose 
                 <p><b>5/1 Joykali Mondir Road, Wari, Dhaka-1203</b></p>
                 <p>Contact: +8801729094633,+8801675453602</p>
                 <p>Email: mhasan@2squarebd.com</p>
+                <p>&nbsp;&nbsp;info@2squarebd.com</p>
             </footer>
             
         </div>

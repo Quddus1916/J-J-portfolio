@@ -20,7 +20,7 @@ const Contact = () =>{
                 <div className="email">
                 <h2> <img src={email} alt="location" width="30px" height="30px"/></h2>
                 <br />
-                <p>mhasan@2squarebd.com</p>  
+                <p>info@2squarebd.com</p>  
                 </div>                       
             </div>
             <div className="svg2">
