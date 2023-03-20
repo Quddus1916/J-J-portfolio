@@ -9,6 +9,11 @@
     height: 100%;
     background-color: rgb(67, 161, 213);
 }
+.footer{
+    background-color: white ;
+    text-align: center;
+    padding-top: 50px;
+}
 .header{
     display: flex;
     justify-content:space-between;
@@ -48,12 +53,13 @@ text-decoration: none;
 
     
 .main{
-    display: flex;
-    justify-content:space-between;
-    align-items: center;
-    width: 100%;
-    height: 90px;
-    padding: 250px 100px;
+   
+   display: flex;
+   justify-content:space-between;
+   align-items: center;
+   width: 100%;
+   height: 90px;
+   padding: 250px 100px;
 }
 
 .main .svg{
@@ -71,11 +77,19 @@ text-decoration: none;
     width: auto;
     opacity: .7;
 }
+.main .column .intro h1{
+    margin-bottom: 1rem;
+}
 
-.main .col .contact{
+.main .column .intro p{
+    font-size: 20px;
+}
+
+.main .column .contact{
     width: max-content;
 }
-.main .col .contact button{
+.main .column .contact button{
+    margin-top: 1rem;
     background-color: rgb(42, 105, 181);
     border: none;
     color: black;
@@ -88,22 +102,22 @@ text-decoration: none;
     transition-duration: 0.4s;
 }
 
-.main .col .contact button:hover{
+.main .column .contact button:hover{
     color: white;
     background-color: black;
 }
 
-.main .col .contact button a{
+.main .column .contact button a{
     text-decoration: none;
     color: white;
     
 }
 
-.main .col .price{
+.main .column .price{
     display: flex;
     
 }
-.main .col .price .dollar{
+.main .column .price .dollar{
     color: red;
 }
 
@@ -112,6 +126,9 @@ text-decoration: none;
     padding-top: 50px;
     
     
+}
+.contents p{
+    margin-top: 1rem;
 }
 
 .contents .row1{
@@ -155,29 +172,52 @@ text-decoration: none;
 }
 
 
-.contact{
+.page2{
     display: flex;
     justify-content:space-between;
     align-items: center;
     width: 100%;
     height: 90px;
     padding: 250px 100px;
+    
 }
 
-.contact .col1 .con{
+
+.page2 .col1 .con{
+    display: flex;
+    align-items: center;
+   
+}
+
+.page2 .col1 .loc{
     display: flex;
     align-items: center;
 }
 
-.contact .col1 .loc{
+.page2 .col1 .email{
     display: flex;
     align-items: center;
 }
 
-.contact .col1 .email{
-    display: flex;
-    align-items: center;
+.page2 .col1 p{
+    margin-left: 1rem;
 }
 
 
+.aboutcompany .columnabout{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    height: 90px;
+    padding: 250px 250px;
+    
+}
 
+.aboutcompany .columnabout .companyinfo ul {
+    margin-left: 12rem;
+}
+
+.aboutcompany .columnabout .companyinfo .des {
+    margin-bottom: 1rem;
+}

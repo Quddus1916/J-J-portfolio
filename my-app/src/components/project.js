@@ -42,7 +42,6 @@ const Project = () =>{
             </div>        
             <div className="description">
             <h4>Mirpur Apartment Proposal</h4>
-            <p>iaejdjaelfjnlaenfljsljflj navlc lakfrvlak flvkhaelkrhflkrhwevfv</p>
           </div>  
           </div>
           <div className="card">
@@ -58,7 +57,6 @@ const Project = () =>{
             </div>        
             <div className="description">
             <h4>Under Construction Noakhali Project</h4>
-            <p>iaejdjaelfjnlaenfljsljflj navlc lakfrvlak flvkhaelkrhflkrhwevfv</p>
           </div>  
          </div>
          </div>
@@ -76,7 +74,6 @@ const Project = () =>{
             </div>        
             <div className="description">
             <h4>Dhaka Club - Tennis lounge</h4>
-            <p>iaejdjaelfjnlaenfljsljflj navlc lakfrvlak flvkhaelkrhflkrhwevfv</p>
           </div>  
          </div>
          <div className="card">
@@ -92,7 +89,6 @@ const Project = () =>{
             </div>        
             <div className="description">
             <h4>Under Construction 'lotto - elephant road'</h4>
-            <p>iaejdjaelfjnlaenfljsljflj navlc lakfrvlak flvkhaelkrhflkrhwevfv</p>
           </div>  
          </div>
          </div>
@@ -110,7 +106,6 @@ const Project = () =>{
             </div>        
             <div className="description">
             <h4>Under Construction Noakhali Project</h4>
-            <p>iaejdjaelfjnlaenfljsljflj navlc lakfrvlak flvkhaelkrhflkrhwevfv</p>
           </div>  
          </div>         
          

@@ -3,15 +3,18 @@ import svg from '../assets/14.svg'
 
 const Main = () =>{
     return(
-        <div className="main">
-            <div className="col">
-                <h2>Your Interior Designer</h2>
-                <p>calhsckhskvfsnv,n s,n vnsf v shkbfkhaebkfwejfbjbfaljdfbjebfljbfb,dv,n sndvkrbfjefljnefj</p>
+        <div>
+            <div className="main">
+            <div className="column">
+                <div className="intro">
+                <h1>Architectural Designer/Interior Design Studio</h1>
+                <p>We aim to spread the best of Architecture + Design to Architects and <br /> all enthusiasts of Architecture around the world. 
+
+We try to feed <br />your imagination by picking up and delivering a daily dose of <br /> the most exciting and outstanding selection of  Design & Architectural ideas.</p>
                 
-                <div className="price">
-                <h4>Price:</h4>
-                <h5 className="dollar">$$$$</h5>
                 </div>
+                
+                
 
                 <div className="contact">
                     <button><a href="mailto:mhasan@2squarebd.com">Contact us</a></button>
@@ -25,6 +28,14 @@ const Main = () =>{
             </div>
 
         </div>
+        <footer className="footer">
+                <p><b>5/1 Joykali Mondir Road, Wari, Dhaka-1203</b></p>
+                <p>Contact: +8801729094633,+8801675453602</p>
+                <p>Email: mhasan@2squarebd.com</p>
+            </footer>
+            
+        </div>
+        
 
     );
 }
